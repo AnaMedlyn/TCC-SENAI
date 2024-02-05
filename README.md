@@ -6,15 +6,15 @@
   <img width="30%" src="https://github.com/adancard/TCC-SENAI/assets/125130778/477b5054-fc88-42ba-887c-2de091e9030f" alt="Sublime's custom image"/>
 </p>
 
-<p align="center">
-Problema: Propagar conteúdo de aprendizagem.
-  
-Área: Eletroeletrônica
-</p>
+
+
 
 [Documentação - V1 ApexCode.pdf](https://github.com/adancard/TCC-SENAI/files/14166409/Documentacao.-.V1.ApexCode.pdf)
+<p align="center">
+Problema: Propagar conteúdo de aprendizagem.
+</p>
 
-
+● Área: Eletroeletrônica
 
 <h1>1. Escopo</h1>
    
@@ -69,13 +69,13 @@ online. Precisa ser mais debatido no momento.
 
 <h1>4. Cronograma</h1>
    
-Janeiro/2024: Planejamento e Análise
+**Janeiro/2024: Planejamento e Análise**
 
 ● Formação das equipes
 
 ● Processo de empatia
 
-Fevereiro/2024: Desenvolvimento do MVP (menor produto viável)
+**Fevereiro/2024: Desenvolvimento do MVP (menor produto viável)**
 
 ● Identificação de requisitos detalhados
 
@@ -85,7 +85,7 @@ inicial
 ● Codificação e validação do MVP com o cliente e adaptação dos
 documentos de escopo (se necessário)
 
-Março/2024: Desenvolvimento do protótipo do aplicativo
+**Março/2024: Desenvolvimento do protótipo do aplicativo**
 
 ● Definir Versão
 
@@ -95,7 +95,7 @@ Março/2024: Desenvolvimento do protótipo do aplicativo
 
 ● Revisão e ajuste do protótipo com feedback da equipe e usuários
 
-Abril/2024: Desenvolvimento de automação
+**Abril/2024: Desenvolvimento de automação**
 
 ● Desenvolvimento de automação no software para os professores
 
@@ -103,7 +103,7 @@ Abril/2024: Desenvolvimento de automação
 
 ● Testes de integração e ajustes necessários
 
-Maio/2024: Testes Finais e Lançamento
+**Maio/2024: Testes Finais e Lançamento**
 
 ● Testes finais do software e do sistema integrado
 
