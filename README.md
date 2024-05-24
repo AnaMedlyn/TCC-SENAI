@@ -194,9 +194,13 @@ Custo total: R$6,000.00
 **Total Geral:**
 
 ● Pessoal: R$342,000
+
 ● Tecnologia: R$90,000
+
 ● Equipamentos: R$120,000
+
 ● Comunicação: R$6,000
+
 Custo Total do Projeto: $558,000
 
 ### 7. Documentação
