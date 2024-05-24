@@ -275,8 +275,8 @@ o tempo total planejado.
 ●Tempo de Implementação:
 
 Objetivo: 
-- Cumprir o cronograma estabelecido, realizando a
+-  Cumprir o cronograma estabelecido, realizando a
 implementação da extensão e lançamento até a data prevista.
 
 Métrica:
-- Comparação entre a data de conclusão real e a data planejada.
+-  Comparação entre a data de conclusão real e a data planejada.
