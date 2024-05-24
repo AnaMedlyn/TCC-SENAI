@@ -205,21 +205,28 @@ Custo Total do Projeto: $558,000
 
 Interface Web: A interface deve ser responsiva, garantindo uma experiência de usuário consistente em
 diferentes dispositivos.
+
 Validação de dados: Verificação de credenciais e nome da planilha antes de enviar para o
 servidor.
+
 Feedback visual: Mensagens claras sobre o sucesso ou falha da operação.
-Script Python:
-Automação de Login: O script deve ser capaz de realizar o login automaticamente no sistema
-do Senai.
+
+Script Python: Automação de Login: O script deve ser capaz de realizar o login automaticamente
+no sistema do Senai.
+
 Inserção de Notas: Implementação de lógica para inserir as notas na planilha específica.
-Integração:
-Biblioteca: Estabelecer uma Biblioteca para comunicação eficiente entre a interface web e o
-script Python.
+
+Integração: Biblioteca: Estabelecer uma Biblioteca para comunicação eficiente entre a interface
+web e o script Python.
+
 Segurança na Comunicação: Uso de protocolos seguros para transferência de dados entre a
 interface e o script.
-Mecanismo de Segurança:
+
+**Mecanismo de Segurança:**
+
 Criptografia: Utilização de métodos de criptografia para proteger dados sensíveis durante a
 transmissão.
+
 Políticas de Acesso: Implementação de controles de acesso para garantir que apenas usuários
 autorizados utilizem a interface.
 
