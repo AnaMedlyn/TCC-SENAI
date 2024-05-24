@@ -22,7 +22,7 @@ e amigável para professores. O cronograma estabelecido é flexível, sujeito a 
 evolução do desenvolvimento. Ao final, espera-se um sistema robusto, seguro e de fácil
 utilização para todos os envolvidos.
 
-**2. Objetivos do Projeto**
+### 2. Objetivos do Projeto
 
 ● Desenvolver uma extensão no site principal do SENAI, que permita os docentes
 automatizarem as notas dos alunos.
@@ -37,7 +37,7 @@ extensão.
 
 ● Estabelecer um sistema que gere relatórios e que faça Backup dos dados.
 
-**3.Análise de Riscos**
+### 3.Análise de Riscos
 
 ● Falhas técnicas na integração do software: Devido o software planejado ser uma
 extensão já do site web do SENAI (https://www.sp.senai.br/), pode haver
@@ -61,7 +61,7 @@ treinamento para o funcionamento da automatização.
 questão é amplo no momento, visto que a manutenção pode ser tanto fisica quanto
 online. Precisa ser mais debatido no momento.
 
-**4. Cronograma**
+### 4. Cronograma
    
 Janeiro/2024: Planejamento e Análise
 
@@ -107,7 +107,7 @@ Maio/2024: Testes Finais e Lançamento
 
 ● Monitoramento inicial de feedback e desempenho
 
-**5. Recursos Pessoal:**
+### 5. Recursos Pessoal:
    
 ● Desenvolvedores de Software:
 Para a criação do aplicativo/web
@@ -134,7 +134,7 @@ Para desenvolvimento,teste e gerenciamento de projeto
 ● Dispositivos Móveis:
 Para testes e treinamento do aplicativo em condições reais
 
-**6. Custos Pessoal:**
+### 6. Custos Pessoal:
    
 ** **Desenvolvedores de Software:
 
@@ -154,7 +154,7 @@ dias/semana * 6 horas/dia * 20 semanas = R$180.000,00
 ● Custo total: R$150/hora/gerente * 1 gerente * 3 dias/semana * 6
 horas/dia * 20 semanas = R$54.000,00
 
-<sup>Equipe de Treinamento:<sup> 
+Equipe de Treinamento:
 
 ● 6 pessoas trabalhando por 3 dias na semana (considerando treinamento
 inicial).
@@ -198,7 +198,7 @@ Custo total: R$6,000.00
 ● Comunicação: R$6,000
 Custo Total do Projeto: $558,000
 
-**7. Documentação**
+### 7. Documentação
 
 ** **Requisitos Funcionais:
 
@@ -222,7 +222,7 @@ transmissão.
 Políticas de Acesso: Implementação de controles de acesso para garantir que apenas usuários
 autorizados utilizem a interface.
 
-**8. Avaliação do Projeto**
+### 8. Avaliação do Projeto
    
 ** **Taxa de Adoção do Aplicativo:
 ● Objetivo: Alcançar uma taxa de adoção de 99% entre os funcionários no
@@ -272,9 +272,11 @@ ao longo do tempo.
 ● Métrica: Tempo total de operação sem interrupções em comparação com
 o tempo total planejado.
 
-** **Tempo de Implementação:
+●Tempo de Implementação:
 
-● Objetivo: Cumprir o cronograma estabelecido, realizando a
-implementação da extensão e lançamento até a data prevista.
+Objetivo: 
+<sub>Cumprir o cronograma estabelecido, realizando a
+implementação da extensão e lançamento até a data prevista.<sub>
 
-● Métrica: Comparação entre a data de conclusão real e a data planejada.
+Métrica:
+<sob>Comparação entre a data de conclusão real e a data planejada.<sob>
