@@ -10,7 +10,7 @@ aprendizagem.***
 
 ● Responsáveis: Kayke, Ana, Ricardo, Pablo, Adan e Felipe.
 
-**1. Escopo**
+### 1. Escopo
    
 O projeto tem como objetivo principal a automação e melhoria do sistema online do SENAI,
 proporcionando uma experiência mais eficiente para professores (docentes), tendo como
