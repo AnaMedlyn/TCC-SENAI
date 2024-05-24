@@ -5,8 +5,11 @@
 
 Problema: Propagar conteúdo de
 aprendizagem.
+
 ● Área: Eletroeletrônica
+
 ● Responsáveis: Kayke, Ana, Ricardo, Pablo, Adan e Felipe.
+
 1. Escopo
    
 O projeto tem como objetivo principal a automação e melhoria do sistema online do SENAI,
@@ -19,7 +22,7 @@ e amigável para professores. O cronograma estabelecido é flexível, sujeito a 
 evolução do desenvolvimento. Ao final, espera-se um sistema robusto, seguro e de fácil
 utilização para todos os envolvidos.
 
-3. Objetivos do Projeto
+2. Objetivos do Projeto
 
 ● Desenvolver uma extensão no site principal do SENAI, que permita os docentes
 automatizarem as notas dos alunos.
